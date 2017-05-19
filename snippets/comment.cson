@@ -1,0 +1,6 @@
+".source.js":
+  "comment":
+    prefix: "/"
+    body: """
+/* $0 */
+    """
