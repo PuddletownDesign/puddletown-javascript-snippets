@@ -3,6 +3,6 @@
     'prefix' : 'map'
     'body' : """
 map(function (item, i, arr) {
-  item
+  item$0
 })
 	"""
