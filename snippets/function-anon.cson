@@ -2,5 +2,5 @@
   "Function Anon":
     prefix: "f"
     body: """
-function ($1) {$0}
+($1) => {$0}
     """

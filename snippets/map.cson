@@ -2,7 +2,5 @@
   'Map':
     'prefix' : 'map'
     'body' : """
-map(function (item, i, arr) {
-  item$0
-})
-	"""
+map((e, i, a) => ${2:{$0\\}})
+    """

@@ -1,0 +1,6 @@
+".source.js":
+  'find':
+    'prefix' : 'find'
+    'body' : """
+find((e, i, a) => ${2:{$0\\}})
+    """

@@ -2,7 +2,5 @@
   'foreach':
     'prefix' : 'fe'
     'body' : """
-filter(function (item, i, arr) {
-  item
-})
+foreach((e, i, a) => ${2:{$0\\}})
 	"""

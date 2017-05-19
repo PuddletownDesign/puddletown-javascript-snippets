@@ -2,7 +2,7 @@
   "IIFE":
     prefix: "iife"
     body: """
-(function() {
+(() => {
   'use strict';
 
   /*  global  */

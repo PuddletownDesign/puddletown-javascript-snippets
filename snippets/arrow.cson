@@ -1,6 +1,0 @@
-".source.js":
-  'Arrow':
-    'prefix' : '='
-    'body' : """
-=>
-	"""

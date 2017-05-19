@@ -2,7 +2,5 @@
   'Filter':
     'prefix' : 'filter'
     'body' : """
-filter(function (item, i, arr) {
-  item$0
-})
+filter((e, i, a) => ${2:{$0\\}})
 	"""
