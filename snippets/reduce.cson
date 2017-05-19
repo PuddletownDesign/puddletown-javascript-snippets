@@ -1,0 +1,6 @@
+".source.js":
+  'reduce':
+    'prefix' : 'reduce'
+    'body' : """
+reduce((c, e, i, a) => ${2:{$0\\}}, 0)
+    """
