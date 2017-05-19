@@ -1,0 +1,6 @@
+".source.js":
+  'push':
+    'prefix' : 'push'
+    'body' : """
+push($0)
+    """

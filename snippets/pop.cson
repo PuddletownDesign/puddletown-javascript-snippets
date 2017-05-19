@@ -1,0 +1,6 @@
+".source.js":
+  'pop':
+    'prefix' : 'pop'
+    'body' : """
+pop($0)
+    """

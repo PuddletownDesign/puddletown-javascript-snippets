@@ -1,0 +1,6 @@
+".source.js":
+  'unshift':
+    'prefix' : 'unshift'
+    'body' : """
+unshift($0)
+    """

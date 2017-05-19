@@ -1,0 +1,6 @@
+".source.js":
+  'shift':
+    'prefix' : 'shift'
+    'body' : """
+shift($0)
+    """

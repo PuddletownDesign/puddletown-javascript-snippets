@@ -1,0 +1,6 @@
+".source.js":
+  'slice':
+    'prefix' : 'slice'
+    'body' : """
+slice(${1:positionToStart}, ${2:numberToRemove})
+    """

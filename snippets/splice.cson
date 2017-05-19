@@ -1,0 +1,6 @@
+".source.js":
+  'splice':
+    'prefix' : 'splice'
+    'body' : """
+splice(${1:positionToStart}, ${2:numberToRemove})
+    """

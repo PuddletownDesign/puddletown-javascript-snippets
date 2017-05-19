@@ -1,0 +1,8 @@
+".source.js":
+  'foreach':
+    'prefix' : 'fe'
+    'body' : """
+filter(function (item, i, arr) {
+  item
+})
+	"""

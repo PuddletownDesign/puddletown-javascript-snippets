@@ -1,0 +1,8 @@
+".source.js":
+  'Map':
+    'prefix' : 'map'
+    'body' : """
+map(function (item, i, arr) {
+  item
+})
+	"""
