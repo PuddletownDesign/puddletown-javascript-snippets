@@ -1,0 +1,4 @@
+".source.js":
+  'Object Method':
+    'prefix': 'om'
+    'body': '${1:methodName}: function (${2:attribute}) {\n  $3\n}${4:,}'

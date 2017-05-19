@@ -1,0 +1,4 @@
+".source.js":
+  'else if':
+    'prefix': 'elseif'
+    'body': 'else if (${1:true}) {\n  $2\n}'

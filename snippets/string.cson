@@ -1,0 +1,4 @@
+".source.js":
+  'String()':
+    'prefix': 'string'
+    'body': 'String($1)'

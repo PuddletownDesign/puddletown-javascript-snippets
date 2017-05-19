@@ -1,0 +1,4 @@
+".source.js":
+  'switch':
+    'prefix': 'switch'
+    'body': 'switch (${1:expression}) {\n  case ${2:expression}:\n    $4\n    break;$5\n  default:\n    $3\n}'

@@ -1,0 +1,12 @@
+".source.js":
+  "IIFE":
+    prefix: "iife"
+    body: """
+(function() {
+  'use strict';
+
+  /*  global  */
+
+  $0
+})()
+    """

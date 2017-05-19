@@ -1,0 +1,4 @@
+".source.js":
+  'Class':
+    'prefix': 'class'
+    'body': 'class ${1:ClassName} {\n  constructor($2) {\n    $3\n  }\n}'

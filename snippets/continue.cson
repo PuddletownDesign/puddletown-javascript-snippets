@@ -1,0 +1,6 @@
+".source.js":
+  "continue":
+    prefix: "continue"
+    body: """
+continue
+    """

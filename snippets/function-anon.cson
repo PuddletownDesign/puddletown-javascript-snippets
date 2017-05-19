@@ -1,0 +1,6 @@
+".source.js":
+  "Function Anon":
+    prefix: "f"
+    body: """
+function ($1) {$0}
+    """

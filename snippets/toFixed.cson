@@ -1,0 +1,4 @@
+".source.js":
+  'toFixed()':
+    'prefix': 'tofixed'
+    'body': 'toFixed($1)'

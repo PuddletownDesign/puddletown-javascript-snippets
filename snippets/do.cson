@@ -1,0 +1,4 @@
+".source.js":
+  'do':
+    'prefix': 'do'
+    'body': 'do {\n\t$2\n} while (${1:true});'

@@ -1,0 +1,4 @@
+".source.js":
+  'parseInt()':
+    'prefix': 'parseInt'
+    'body': 'parseInt($1)'

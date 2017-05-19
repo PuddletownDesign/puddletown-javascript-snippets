@@ -1,0 +1,4 @@
+".source.js":
+  'if':
+    'prefix': 'if'
+    'body': 'if (${1:true}) {\n\t$2\n}'

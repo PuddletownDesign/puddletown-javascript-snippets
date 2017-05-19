@@ -1,0 +1,4 @@
+".source.js":
+  'Object key — key: "value"':
+    'prefix': 'op'
+    'body': '${1:key}: ${2:\'${3:value}\'}${4:, }'

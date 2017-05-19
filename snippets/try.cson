@@ -1,0 +1,4 @@
+".source.js":
+  'try':
+    'prefix': 'try'
+    'body': 'try {\n  $1\n} catch (${2:e}) {\n  $3\n}${4: finally {\n  $5\n\\}}'

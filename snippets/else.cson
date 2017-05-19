@@ -1,0 +1,4 @@
+".source.js":
+  'else':
+    'prefix': 'else'
+    'body': 'else {\n  $1\n}'

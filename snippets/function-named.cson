@@ -1,0 +1,8 @@
+".source.js":
+  "Function Named":
+    prefix: "fn"
+    body: """
+function $1($2) {
+  $0
+}
+    """

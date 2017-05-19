@@ -1,0 +1,6 @@
+".source.js":
+  "Variable":
+    prefix: "v"
+    body: """
+var $1 = $0
+    """

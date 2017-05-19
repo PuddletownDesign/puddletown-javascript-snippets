@@ -1,0 +1,4 @@
+".source.js":
+  'parseFloat()':
+    'prefix': 'parseFloat'
+    'body': 'parseFloat($1)'

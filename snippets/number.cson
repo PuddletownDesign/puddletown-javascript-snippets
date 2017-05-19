@@ -1,0 +1,4 @@
+".source.js":
+  'Number()':
+    'prefix': 'number'
+    'body': 'Number($1)'

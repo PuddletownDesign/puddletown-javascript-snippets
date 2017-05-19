@@ -1,0 +1,4 @@
+".source.js":
+  'toUpperCase':
+    'prefix': 'toUpperCase'
+    'body': 'toUpperCase()'

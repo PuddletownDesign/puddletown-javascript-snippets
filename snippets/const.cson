@@ -1,0 +1,4 @@
+".source.js":
+  'const':
+    'prefix': 'const'
+    'body': 'const $1 = $2\n$0'

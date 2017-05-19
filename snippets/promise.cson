@@ -1,0 +1,4 @@
+".source.js":
+  'new Promise':
+    'prefix': 'prom'
+    'body': 'new Promise(function(resolve, reject) {\n  $1\n});$0'
