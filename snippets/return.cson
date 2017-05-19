@@ -1,4 +1,4 @@
 ".source.js":
   'return':
     'prefix': 'r'
-    'body': 'return $1;$0'
+    'body': 'return $0'

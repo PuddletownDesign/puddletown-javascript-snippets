@@ -1,0 +1,8 @@
+".source.js":
+  'Filter':
+    'prefix' : 'filter'
+    'body' : """
+filter(function (item, i, arr) {
+  item$0
+})
+	"""
