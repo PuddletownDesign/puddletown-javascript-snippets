@@ -1,0 +1,6 @@
+".source.js":
+  'Template Literal':
+    'prefix' : '$'
+    'body' : """
+${$0}
+    """

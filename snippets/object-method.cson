@@ -1,4 +1,8 @@
 ".source.js":
   'Object Method':
     'prefix': 'om'
-    'body': '${1:methodName}: (${2:attribute}) => {\n  $3\n}${4:,}'
+    'body': """
+${1:methodName}: function (${2:attribute}) {
+  $3
+}${4:,}
+    """
