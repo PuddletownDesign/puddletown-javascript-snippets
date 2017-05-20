@@ -1,0 +1,6 @@
+".source.js":
+  "null":
+    prefix: "null"
+    body: """
+null
+    """

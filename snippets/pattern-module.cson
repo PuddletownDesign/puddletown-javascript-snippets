@@ -1,0 +1,17 @@
+".source.js":
+  'Module Pattern':
+    'prefix': 'module'
+    'body': """
+let $1 = (function () {
+  'use strict'
+
+  // Private Variables
+
+  let $1 = {
+    init: {
+      $0
+    }
+  }
+  return $1
+})()
+    """

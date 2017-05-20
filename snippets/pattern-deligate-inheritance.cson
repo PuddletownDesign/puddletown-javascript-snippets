@@ -1,0 +1,8 @@
+".source.js":
+  'Inheritance Pattern':
+    'prefix': 'inherit'
+    'body': """
+let $1 = Object.assign(Object.create($2), {
+  $0
+})
+	"""

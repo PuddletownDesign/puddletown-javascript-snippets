@@ -1,0 +1,18 @@
+".source.js":
+  'Singleton Pattern':
+    'prefix': 'singleton'
+    'body': """
+var $1 = (function () {
+  'use strict'
+  var instance
+  $1 = function () {
+    if (instance) {
+      return instance
+    }
+    instance = this
+
+    $0
+  }
+  return $1
+})()
+	"""

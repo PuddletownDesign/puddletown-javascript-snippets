@@ -1,0 +1,6 @@
+".source.js":
+  "true":
+    prefix: "true"
+    body: """
+true
+    """

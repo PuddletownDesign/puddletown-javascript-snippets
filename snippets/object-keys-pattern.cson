@@ -1,0 +1,9 @@
+".source.js":
+  'Object Keys Pattern':
+    'prefix': 'ok'
+    'body': """
+Object.keys($1)
+  .forEach(function (k) {
+    $0
+  })
+    """
