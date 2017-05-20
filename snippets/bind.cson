@@ -1,0 +1,6 @@
+".source.js":
+  'bind':
+    'prefix' : 'bind'
+    'body' : """
+bind($1)$0
+    """
