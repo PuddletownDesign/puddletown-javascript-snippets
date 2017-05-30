@@ -1,0 +1,6 @@
+".source.js":
+  'Export':
+    'prefix': 'export'
+    'body': """
+export { $0 }
+    """

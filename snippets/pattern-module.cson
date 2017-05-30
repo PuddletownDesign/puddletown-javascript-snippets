@@ -2,16 +2,10 @@
   'Module Pattern':
     'prefix': 'module'
     'body': """
-let $1 = (function () {
-  'use strict'
+const $1 = (() => {
+  $0
+  return {
 
-  // Private Variables
-
-  let $1 = {
-    init: {
-      $0
-    }
   }
-  return $1
 })()
     """
