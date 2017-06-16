@@ -1,0 +1,6 @@
+".source.js":
+  "Yield":
+    prefix: "y"
+    body: """
+yield $0
+    """
