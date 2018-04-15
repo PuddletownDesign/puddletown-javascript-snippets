@@ -2,7 +2,7 @@
   "Function Named":
     prefix: "fn"
     body: """
-function $1($2) {
-  $0
+function $1 () {
+    $0
 }
     """
