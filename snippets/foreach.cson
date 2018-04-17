@@ -2,5 +2,7 @@
   'foreach':
     'prefix' : 'fe'
     'body' : """
-foreach((e, i, a) => ${2:{$0\\}})
+forEach((e, i, a) => {
+    $0
+})
 	"""
