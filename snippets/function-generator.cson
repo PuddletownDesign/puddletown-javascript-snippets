@@ -1,0 +1,8 @@
+".source.js":
+  "Function Named":
+    prefix: "fg"
+    body: """
+function * $1 ($2) {
+  $0
+}
+    """
