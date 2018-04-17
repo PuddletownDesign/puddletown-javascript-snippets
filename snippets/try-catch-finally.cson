@@ -1,10 +1,12 @@
 ".source.js":
   'try':
-    'prefix': 'tc'
+    'prefix': 'tcf'
     'body': '''
 try {
     $0
 } catch (e) {
 
+} finally {
+    
 }
     '''

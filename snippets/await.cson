@@ -1,0 +1,6 @@
+".source.js":
+  'bind':
+    'prefix' : 'await'
+    'body' : """
+await $0
+    """

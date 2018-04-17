@@ -1,8 +1,8 @@
 ".source.js":
   "Function Named":
-    prefix: "fn"
+    prefix: "af"
     body: """
-function $1 ($2) {
+async function $1 ($2) {
   $0
 }
     """
