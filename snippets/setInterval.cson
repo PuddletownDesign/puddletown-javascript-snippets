@@ -1,0 +1,8 @@
+".source.js":
+  'setInterval function':
+    'prefix': 'setInterval'
+    'body': '''
+setInterval(() => {
+  $0
+}, 3000);
+    '''

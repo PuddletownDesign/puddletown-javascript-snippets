@@ -1,0 +1,8 @@
+".source.js":
+  'setTimeout function':
+    'prefix': 'settimeout'
+    'body': '''
+setTimeout(() => {
+  $0
+}, 3000);
+    '''
