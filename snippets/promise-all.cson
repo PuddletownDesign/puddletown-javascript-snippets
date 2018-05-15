@@ -1,0 +1,6 @@
+".source.js":
+  'new Promise':
+    'prefix': 'promiseall'
+    'body': '''
+Promise.all([ $0 ])
+    '''
