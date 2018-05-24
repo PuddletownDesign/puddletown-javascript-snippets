@@ -1,0 +1,15 @@
+".source.js":
+  'Mocha/ Chai Test File':
+    'prefix': 'testfile'
+    'body': '''
+const expect = require('chai').expect
+const $1 = require('../$1')
+
+describe('$1', () => {
+  let fn = $1.$2
+  it('$3', () => {
+    expect(fn()).to.equal($4)
+  })
+})
+
+    '''
