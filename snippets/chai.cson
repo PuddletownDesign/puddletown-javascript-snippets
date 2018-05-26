@@ -2,6 +2,8 @@
   'Mocha/ Chai Test File':
     'prefix': 'testfile'
     'body': '''
+/* global describe, it */
+
 const expect = require('chai').expect
 const $1 = require('../$1')
 
