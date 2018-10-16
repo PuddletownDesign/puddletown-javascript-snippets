@@ -1,4 +1,10 @@
 ".source.js":
   'Start Docblock':
     'prefix': '///'
-    'body': '/**\n * $1\n */$0'
+    'body': """
+/**
+ * $1
+ *
+ * @return {boolean} - true
+ */
+    """
