@@ -1,0 +1,6 @@
+".source.js":
+  'Throw new error':
+    'prefix' : 'throw'
+    'body' : """
+throw new ${1:Error} ($0)
+    """

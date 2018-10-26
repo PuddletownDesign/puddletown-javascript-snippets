@@ -1,0 +1,6 @@
+".source.js":
+  'Array Includes':
+    'prefix' : 'includes'
+    'body' : """
+$1.includes($0)
+    """
